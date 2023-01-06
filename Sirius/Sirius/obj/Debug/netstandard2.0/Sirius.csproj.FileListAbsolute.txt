@@ -1,0 +1,17 @@
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\bin\Debug\netstandard2.0\Sirius.deps.json
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\bin\Debug\netstandard2.0\Sirius.dll
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\bin\Debug\netstandard2.0\ref\Sirius.dll
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\bin\Debug\netstandard2.0\Sirius.pdb
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Sirius.csprojAssemblyReference.cache
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\CalculadoraSimples.xaml.g.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\GridEstudo.xaml.g.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Teste1.xaml.g.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Sirius.AssemblyInfoInputs.cache
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Sirius.AssemblyInfo.cs
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Sirius.dll
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\ref\Sirius.dll
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Sirius.pdb
+C:\Users\wil.rrsilva\Desktop\Sirius\Sirius\Sirius\Sirius\obj\Debug\netstandard2.0\Wireframe1.xaml.g.cs
